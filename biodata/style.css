@@ -11,8 +11,6 @@ body {
     padding: 20px;
     display: block;
 }
-h1{
-    font-size: 50px;
-    color: #0ac4d5;
-    text-transform: capitalize;
+.card{
+    text-align: center;
 }
